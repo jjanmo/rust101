@@ -1,10 +1,11 @@
-use std::io;
-
 fn main() {
-    println!("[가위, 바위, 보] 중 하나를 입력하세요");
-
-    let mut decision = String::new();
-    io::stdin().read_line(&mut decision)
-        .expect("입력 실패");
-    print!("당신의 선택: {}", decision);
+    let x = 3;
+    println!("X의 값 : {x}"); // X의 값 : 3
+    let x = x + 1;
+    println!("X의 값 : {x}"); // X의 값 : 4
+    {
+        let x = x * 2;
+        println!("X의 값 : {x}"); // X의 값 : 8
+    }
+    println!("X의 값 : {x}"); // X의 값 : 4
 }
