@@ -2,13 +2,9 @@
 
 > 프런트엔드 개발자가 공부하는 러스트!
 
-## Step01 : [Coding Training](https://www.yes24.com/Product/Goods/30076865) [doing]
+## Step01 : Summarizing [doing]
 
-- 새로운 언어를 배울 때 다시 풀어보는 57개의 연습문제를 풀어보자 💪🏻
-
-## Step02 : Summarizing [doing]
-
-> sample code in `hello_rust` directory
+> sample codes in `hello_rust` directory
 
   <details>
     <summary>Content</summary>
@@ -29,3 +25,10 @@
 
 - 📕 [The Rust Programming Language](https://doc.rust-kr.org/)
 </details>
+
+
+## Step02 : [Coding Training](https://www.yes24.com/Product/Goods/30076865) [doing]
+
+> in `coding_training` directory
+
+- 새로운 언어를 배울 때 다시 풀어보는 57개의 연습문제를 풀어보자 💪🏻
